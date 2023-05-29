@@ -2,14 +2,14 @@
 layout: default
 ---
 
-# Who am I? :wink:
+# Who am I? 😉
 
-# What are my skills? :computer:
+# What are my skills? 💻
 
-# Education :mortar_board:
+# Education 🎓
 
-# Experience :necktie:
+# Experience 👔
 
-# Publications :books:
+# Publications 📚
 
-# Contact me? :smirk:
+# Contact me? 😏
