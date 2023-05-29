@@ -2,14 +2,14 @@
 layout: default
 ---
 
-# Who am I? 😉
+## Who am I? 😉
 
-# What are my skills? 💻
+## What are my skills? 💻
 
-# Education 🎓
+## Education 🎓
 
-# Experience 👔
+## Experience 👔
 
-# Publications 📚
+## Publications 📚
 
-# Contact me? 😏
+## Contact me? 😏
