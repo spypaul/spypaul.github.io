@@ -11,6 +11,7 @@ My areas of interests include studying memory Systems, Operating Systems, and St
 Right now, I am working on CXL Type 3 devices and the CXL fabric manager. 
 Feel free to connect with me.
 
+To know more about me, feel free to check out my [resume/CV](./Shao_Peng_Yang_Resume_CV.pdf)
 ## What are my skills? 💻
 
 * Programming: C++, Parallel and Multithreaded Programming, C, Assembly, Python, Matlab
