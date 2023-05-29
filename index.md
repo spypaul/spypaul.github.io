@@ -16,3 +16,4 @@ layout: default
 ## Publications 📚
 
 ## Contact me? 😏
+Feel free to contact me for more information by sending an email to <syang32@syr.edu>
