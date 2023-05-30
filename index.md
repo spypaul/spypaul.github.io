@@ -8,7 +8,7 @@ layout: default
 ## Who am I? 😉
 
 Hi there 👋, I am Shao-Peng Yang, a Ph.D. student in Electrical and Computer Engineering at Syracuse University, under the guidance of the awesome [Professor Bryan S. Kim](https://web.ecs.syr.edu/~bkim01/?_gl=1*1h3b5s*_ga*MTU2ODk3ODQ5Ni4xNjc0ODY5NzM3*_ga_QT13NN6N9S*MTY4NTM5MDQ3Mi41My4xLjE2ODUzOTE2MTIuNjAuMC4w). 
-My areas of interests include studying memory Systems, Operating Systems, and Storage Systems. 
+My areas of interests include memory Systems, Operating Systems, and Storage Systems. 
 Right now, I am working on CXL Type 3 devices and the CXL fabric manager. 
 Feel free to connect with me.
 
