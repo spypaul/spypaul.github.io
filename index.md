@@ -3,6 +3,8 @@ layout: default
 ---
 # Shao-Peng Yang
 
+[Google Scholar](https://scholar.google.com/citations?user=0PrGhzkAAAAJ&hl=en) | [GitHub](https://github.com/spypaul)
+
 <img src="./spy_paul.jpeg"  width="20%" height="20%">
 
 ## Who am I? 😉
@@ -49,5 +51,6 @@ To know more about me, feel free to check out my [resume/CV](./Shao_Peng_Yang_Re
   * Identified a limitation of CMM-H as memory where data is not invalidated after use, and showcased performance overheads from high write amplification as flash memory becomes "full" with stale data
 
 ## Contact me? 😏
+## Contact me? 😏
 Feel free to contact me for more information by sending an email to <syang32@syr.edu>.
-You can also find my past projects at my [GitHub](https://github.com/spypaul).
+You can also find my past projects at my [GitHub](https://github.com/spypaul) and my publications on [Google Scholar](https://scholar.google.com/citations?user=0PrGhzkAAAAJ&hl=en).
